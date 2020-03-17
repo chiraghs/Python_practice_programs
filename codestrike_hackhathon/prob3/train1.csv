@@ -1,0 +1,531 @@
+Airline,Departing_Port,Arriving_Port,Flight_Scheduled,Flights_Flown,Year,Month_Num
+Jetstar,Adelaide,Brisbane,30,30,2019,1
+Jetstar,Adelaide,Gold Coast,39,39,2019,1
+Jetstar,Adelaide,Melbourne,123,118,2019,1
+Jetstar,Adelaide,Perth,30,29,2019,1
+Jetstar,Adelaide,Sydney,140,130,2019,1
+Jetstar,Ayers Rock,Sydney,27,27,2019,1
+Jetstar,Ballina,Sydney,104,102,2019,1
+Jetstar,Brisbane,Adelaide,30,30,2019,1
+Jetstar,Brisbane,Cairns,117,115,2019,1
+Jetstar,Brisbane,Darwin,29,29,2019,1
+Jetstar,Brisbane,Hobart,44,44,2019,1
+Jetstar,Brisbane,Mackay,31,31,2019,1
+Jetstar,Brisbane,Melbourne,181,177,2019,1
+Jetstar,Brisbane,Newcastle,92,92,2019,1
+Jetstar,Brisbane,Proserpine,44,43,2019,1
+Jetstar,Brisbane,Sydney,187,175,2019,1
+Jetstar,Brisbane,Townsville,48,48,2019,1
+Jetstar,Cairns,Brisbane,116,112,2019,1
+Jetstar,Cairns,Melbourne,114,112,2019,1
+Jetstar,Cairns,Sydney,126,121,2019,1
+Jetstar,Darwin,Brisbane,29,29,2019,1
+Jetstar,Darwin,Melbourne,30,30,2019,1
+Jetstar,Darwin,Sydney,31,31,2019,1
+Jetstar,Gold Coast,Adelaide,39,39,2019,1
+Jetstar,Gold Coast,Melbourne,240,234,2019,1
+Jetstar,Gold Coast,Sydney,343,323,2019,1
+Jetstar,Hamilton Island,Sydney,32,30,2019,1
+Jetstar,Hobart,Brisbane,44,44,2019,1
+Jetstar,Hobart,Melbourne,245,241,2019,1
+Jetstar,Hobart,Sydney,130,128,2019,1
+Jetstar,Launceston,Melbourne,202,201,2019,1
+Jetstar,Launceston,Sydney,91,91,2019,1
+Jetstar,Mackay,Brisbane,31,31,2019,1
+Jetstar,Melbourne,Adelaide,123,118,2019,1
+Jetstar,Melbourne,Brisbane,182,177,2019,1
+Jetstar,Melbourne,Cairns,115,113,2019,1
+Jetstar,Melbourne,Darwin,30,30,2019,1
+Jetstar,Melbourne,Gold Coast,240,233,2019,1
+Jetstar,Melbourne,Hobart,245,242,2019,1
+Jetstar,Melbourne,Launceston,201,200,2019,1
+Jetstar,Melbourne,Newcastle,121,119,2019,1
+Jetstar,Melbourne,Perth,62,60,2019,1
+Jetstar,Melbourne,Sunshine Coast,86,86,2019,1
+Jetstar,Melbourne,Sydney,461,435,2019,1
+Jetstar,Newcastle,Brisbane,92,92,2019,1
+Jetstar,Newcastle,Melbourne,121,119,2019,1
+Jetstar,Perth,Adelaide,30,28,2019,1
+Jetstar,Perth,Melbourne,62,59,2019,1
+Jetstar,Perth,Sydney,31,31,2019,1
+Jetstar,Proserpine,Brisbane,44,42,2019,1
+Jetstar,Proserpine,Sydney,14,14,2019,1
+Jetstar,Sunshine Coast,Melbourne,87,87,2019,1
+Jetstar,Sunshine Coast,Sydney,122,119,2019,1
+Jetstar,Sydney,Adelaide,139,132,2019,1
+Jetstar,Sydney,Ayers Rock,27,27,2019,1
+Jetstar,Sydney,Ballina,104,103,2019,1
+Jetstar,Sydney,Brisbane,187,175,2019,1
+Jetstar,Sydney,Cairns,125,121,2019,1
+Jetstar,Sydney,Darwin,31,31,2019,1
+Jetstar,Sydney,Gold Coast,342,324,2019,1
+Jetstar,Sydney,Hamilton Island,31,30,2019,1
+Jetstar,Sydney,Hobart,130,128,2019,1
+Jetstar,Sydney,Launceston,90,90,2019,1
+Jetstar,Sydney,Melbourne,462,431,2019,1
+Jetstar,Sydney,Perth,31,31,2019,1
+Jetstar,Sydney,Proserpine,14,14,2019,1
+Jetstar,Sydney,Sunshine Coast,122,120,2019,1
+Jetstar,Sydney,Townsville,30,30,2019,1
+Jetstar,Townsville,Brisbane,48,48,2019,1
+Jetstar,Townsville,Sydney,30,30,2019,1
+Qantas,Adelaide,Alice Springs,31,31,2019,1
+Qantas,Adelaide,Brisbane,62,62,2019,1
+Qantas,Adelaide,Canberra,31,31,2019,1
+Qantas,Adelaide,Melbourne,251,249,2019,1
+Qantas,Adelaide,Perth,100,100,2019,1
+Qantas,Adelaide,Sydney,215,215,2019,1
+Qantas,Alice Springs,Adelaide,31,31,2019,1
+Qantas,Brisbane,Adelaide,56,56,2019,1
+Qantas,Brisbane,Cairns,45,45,2019,1
+Qantas,Brisbane,Darwin,31,31,2019,1
+Qantas,Brisbane,Hobart,2,2,2019,1
+Qantas,Brisbane,Melbourne,394,389,2019,1
+Qantas,Brisbane,Mount Isa,31,31,2019,1
+Qantas,Brisbane,Perth,140,140,2019,1
+Qantas,Brisbane,Sydney,499,493,2019,1
+Qantas,Brisbane,Townsville,35,35,2019,1
+Qantas,Cairns,Brisbane,45,45,2019,1
+Qantas,Cairns,Melbourne,39,39,2019,1
+Qantas,Cairns,Sydney,63,63,2019,1
+Qantas,Canberra,Adelaide,29,29,2019,1
+Qantas,Canberra,Melbourne,199,197,2019,1
+Qantas,Darwin,Brisbane,31,31,2019,1
+Qantas,Darwin,Melbourne,27,27,2019,1
+Qantas,Darwin,Perth,31,30,2019,1
+Qantas,Darwin,Sydney,32,32,2019,1
+Qantas,Gold Coast,Melbourne,40,40,2019,1
+Qantas,Gold Coast,Sydney,109,109,2019,1
+Qantas,Hamilton Island,Sydney,15,15,2019,1
+Qantas,Hobart,Brisbane,2,2,2019,1
+Qantas,Hobart,Melbourne,120,120,2019,1
+Qantas,Hobart,Sydney,9,9,2019,1
+Qantas,Kalgoorlie,Perth,7,6,2019,1
+Qantas,Karratha,Perth,14,14,2019,1
+Qantas,Melbourne,Adelaide,252,251,2019,1
+Qantas,Melbourne,Brisbane,398,393,2019,1
+Qantas,Melbourne,Cairns,39,39,2019,1
+Qantas,Melbourne,Canberra,201,199,2019,1
+Qantas,Melbourne,Darwin,27,27,2019,1
+Qantas,Melbourne,Gold Coast,40,40,2019,1
+Qantas,Melbourne,Hobart,120,120,2019,1
+Qantas,Melbourne,Perth,202,202,2019,1
+Qantas,Melbourne,Sydney,912,866,2019,1
+Qantas,Mount Isa,Brisbane,31,31,2019,1
+Qantas,Newman,Perth,32,32,2019,1
+Qantas,Perth,Adelaide,105,105,2019,1
+Qantas,Perth,Brisbane,130,130,2019,1
+Qantas,Perth,Darwin,31,31,2019,1
+Qantas,Perth,Kalgoorlie,7,6,2019,1
+Qantas,Perth,Karratha,14,14,2019,1
+Qantas,Perth,Melbourne,209,209,2019,1
+Qantas,Perth,Newman,32,32,2019,1
+Qantas,Perth,Port Hedland,46,46,2019,1
+Qantas,Perth,Sydney,209,208,2019,1
+Qantas,Port Hedland,Perth,46,46,2019,1
+Qantas,Sydney,Adelaide,216,213,2019,1
+Qantas,Sydney,Brisbane,499,494,2019,1
+Qantas,Sydney,Cairns,63,63,2019,1
+Qantas,Sydney,Darwin,32,32,2019,1
+Qantas,Sydney,Gold Coast,109,109,2019,1
+Qantas,Sydney,Hamilton Island,15,15,2019,1
+Qantas,Sydney,Hobart,9,9,2019,1
+Qantas,Sydney,Melbourne,913,868,2019,1
+Qantas,Sydney,Perth,208,208,2019,1
+Qantas,Townsville,Brisbane,35,35,2019,1
+QantasLink,Adelaide,Brisbane,58,57,2019,1
+QantasLink,Adelaide,Canberra,4,4,2019,1
+QantasLink,Adelaide,Port Lincoln,110,107,2019,1
+QantasLink,Adelaide,Sydney,30,29,2019,1
+QantasLink,Albury,Sydney,83,83,2019,1
+QantasLink,Alice Springs,Darwin,31,27,2019,1
+QantasLink,Armidale,Sydney,109,109,2019,1
+QantasLink,Brisbane,Adelaide,58,58,2019,1
+QantasLink,Brisbane,Bundaberg,108,108,2019,1
+QantasLink,Brisbane,Cairns,80,80,2019,1
+QantasLink,Brisbane,Canberra,154,154,2019,1
+QantasLink,Brisbane,Emerald,109,109,2019,1
+QantasLink,Brisbane,Gladstone,124,124,2019,1
+QantasLink,Brisbane,Hamilton Island,30,29,2019,1
+QantasLink,Brisbane,Mackay,128,128,2019,1
+QantasLink,Brisbane,Melbourne,9,9,2019,1
+QantasLink,Brisbane,Newcastle,84,82,2019,1
+QantasLink,Brisbane,Rockhampton,170,170,2019,1
+QantasLink,Brisbane,Sydney,12,12,2019,1
+QantasLink,Brisbane,Townsville,108,108,2019,1
+QantasLink,Broome,Perth,84,82,2019,1
+QantasLink,Bundaberg,Brisbane,108,108,2019,1
+QantasLink,Cairns,Brisbane,80,79,2019,1
+QantasLink,Cairns,Townsville,136,136,2019,1
+QantasLink,Canberra,Adelaide,4,4,2019,1
+QantasLink,Canberra,Brisbane,154,153,2019,1
+QantasLink,Canberra,Melbourne,33,31,2019,1
+QantasLink,Canberra,Sydney,300,295,2019,1
+QantasLink,Coffs Harbour,Sydney,126,125,2019,1
+QantasLink,Darwin,Alice Springs,31,27,2019,1
+QantasLink,Dubbo,Sydney,99,99,2019,1
+QantasLink,Emerald,Brisbane,109,108,2019,1
+QantasLink,Geraldton,Perth,42,41,2019,1
+QantasLink,Gladstone,Brisbane,124,123,2019,1
+QantasLink,Gold Coast,Sydney,8,8,2019,1
+QantasLink,Hamilton Island,Brisbane,30,29,2019,1
+QantasLink,Hamilton Island,Sydney,16,16,2019,1
+QantasLink,Hobart,Sydney,53,53,2019,1
+QantasLink,Kalgoorlie,Perth,64,64,2019,1
+QantasLink,Karratha,Perth,179,175,2019,1
+QantasLink,Launceston,Melbourne,120,117,2019,1
+QantasLink,Mackay,Brisbane,120,119,2019,1
+QantasLink,Melbourne,Brisbane,9,9,2019,1
+QantasLink,Melbourne,Canberra,33,31,2019,1
+QantasLink,Melbourne,Launceston,121,118,2019,1
+QantasLink,Melbourne,Mildura,86,85,2019,1
+QantasLink,Mildura,Melbourne,86,85,2019,1
+QantasLink,Newcastle,Brisbane,84,82,2019,1
+QantasLink,Newman,Perth,100,98,2019,1
+QantasLink,Perth,Broome,84,83,2019,1
+QantasLink,Perth,Geraldton,42,42,2019,1
+QantasLink,Perth,Kalgoorlie,64,64,2019,1
+QantasLink,Perth,Karratha,182,182,2019,1
+QantasLink,Perth,Newman,100,100,2019,1
+QantasLink,Perth,Port Hedland,86,85,2019,1
+QantasLink,Port Hedland,Perth,86,82,2019,1
+QantasLink,Port Lincoln,Adelaide,110,107,2019,1
+QantasLink,Port Macquarie,Sydney,98,98,2019,1
+QantasLink,Rockhampton,Brisbane,174,174,2019,1
+QantasLink,Sunshine Coast,Sydney,35,35,2019,1
+QantasLink,Sydney,Adelaide,30,29,2019,1
+QantasLink,Sydney,Albury,83,82,2019,1
+QantasLink,Sydney,Armidale,109,108,2019,1
+QantasLink,Sydney,Brisbane,12,12,2019,1
+QantasLink,Sydney,Canberra,302,299,2019,1
+QantasLink,Sydney,Coffs Harbour,127,126,2019,1
+QantasLink,Sydney,Dubbo,100,100,2019,1
+QantasLink,Sydney,Gold Coast,8,8,2019,1
+QantasLink,Sydney,Hamilton Island,16,16,2019,1
+QantasLink,Sydney,Hobart,53,53,2019,1
+QantasLink,Sydney,Port Macquarie,99,97,2019,1
+QantasLink,Sydney,Sunshine Coast,35,35,2019,1
+QantasLink,Sydney,Tamworth,118,118,2019,1
+QantasLink,Sydney,Wagga Wagga,87,87,2019,1
+QantasLink,Tamworth,Sydney,113,113,2019,1
+QantasLink,Townsville,Brisbane,107,107,2019,1
+QantasLink,Townsville,Cairns,136,136,2019,1
+QantasLink,Wagga Wagga,Sydney,86,86,2019,1
+Regional Express,Adelaide,Port Lincoln,186,186,2019,1
+Regional Express,Albury,Sydney,48,47,2019,1
+Regional Express,Armidale,Sydney,39,39,2019,1
+Regional Express,Ballina,Sydney,3,3,2019,1
+Regional Express,Cairns,Townsville,6,6,2019,1
+Regional Express,Dubbo,Sydney,83,82,2019,1
+Regional Express,Melbourne,Mildura,48,48,2019,1
+Regional Express,Mildura,Melbourne,48,47,2019,1
+Regional Express,Port Lincoln,Adelaide,185,185,2019,1
+Regional Express,Sydney,Albury,52,50,2019,1
+Regional Express,Sydney,Armidale,40,40,2019,1
+Regional Express,Sydney,Ballina,4,4,2019,1
+Regional Express,Sydney,Dubbo,87,86,2019,1
+Regional Express,Sydney,Wagga Wagga,53,53,2019,1
+Regional Express,Townsville,Cairns,6,6,2019,1
+Regional Express,Wagga Wagga,Sydney,56,55,2019,1
+Tigerair Australia,Adelaide,Brisbane,31,30,2019,1
+Tigerair Australia,Adelaide,Melbourne,81,77,2019,1
+Tigerair Australia,Adelaide,Sydney,32,31,2019,1
+Tigerair Australia,Brisbane,Adelaide,31,30,2019,1
+Tigerair Australia,Brisbane,Cairns,31,31,2019,1
+Tigerair Australia,Brisbane,Canberra,18,18,2019,1
+Tigerair Australia,Brisbane,Darwin,19,17,2019,1
+Tigerair Australia,Brisbane,Melbourne,124,107,2019,1
+Tigerair Australia,Brisbane,Sydney,118,107,2019,1
+Tigerair Australia,Cairns,Brisbane,31,31,2019,1
+Tigerair Australia,Cairns,Melbourne,49,47,2019,1
+Tigerair Australia,Cairns,Sydney,35,33,2019,1
+Tigerair Australia,Canberra,Brisbane,18,18,2019,1
+Tigerair Australia,Canberra,Melbourne,39,39,2019,1
+Tigerair Australia,Coffs Harbour,Sydney,27,27,2019,1
+Tigerair Australia,Darwin,Brisbane,20,17,2019,1
+Tigerair Australia,Gold Coast,Melbourne,97,94,2019,1
+Tigerair Australia,Gold Coast,Sydney,105,96,2019,1
+Tigerair Australia,Hobart,Melbourne,52,50,2019,1
+Tigerair Australia,Melbourne,Adelaide,80,77,2019,1
+Tigerair Australia,Melbourne,Brisbane,124,107,2019,1
+Tigerair Australia,Melbourne,Cairns,49,47,2019,1
+Tigerair Australia,Melbourne,Canberra,39,39,2019,1
+Tigerair Australia,Melbourne,Gold Coast,97,94,2019,1
+Tigerair Australia,Melbourne,Hobart,52,50,2019,1
+Tigerair Australia,Melbourne,Perth,61,58,2019,1
+Tigerair Australia,Melbourne,Sydney,286,238,2019,1
+Tigerair Australia,Perth,Melbourne,61,58,2019,1
+Tigerair Australia,Perth,Sydney,31,24,2019,1
+Tigerair Australia,Proserpine,Sydney,22,20,2019,1
+Tigerair Australia,Sydney,Adelaide,32,31,2019,1
+Tigerair Australia,Sydney,Brisbane,118,107,2019,1
+Tigerair Australia,Sydney,Cairns,35,33,2019,1
+Tigerair Australia,Sydney,Coffs Harbour,27,27,2019,1
+Tigerair Australia,Sydney,Gold Coast,105,96,2019,1
+Tigerair Australia,Sydney,Melbourne,286,238,2019,1
+Tigerair Australia,Sydney,Perth,31,24,2019,1
+Tigerair Australia,Sydney,Proserpine,22,20,2019,1
+Virgin Australia,Adelaide,Alice Springs,23,23,2019,1
+Virgin Australia,Adelaide,Brisbane,113,113,2019,1
+Virgin Australia,Adelaide,Canberra,27,27,2019,1
+Virgin Australia,Adelaide,Gold Coast,39,39,2019,1
+Virgin Australia,Adelaide,Melbourne,266,260,2019,1
+Virgin Australia,Adelaide,Perth,30,30,2019,1
+Virgin Australia,Adelaide,Sydney,159,159,2019,1
+Virgin Australia,Albury,Sydney,60,60,2019,1
+Virgin Australia,Alice Springs,Adelaide,22,22,2019,1
+Virgin Australia,Alice Springs,Darwin,23,23,2019,1
+Virgin Australia,Ayers Rock,Sydney,31,31,2019,1
+Virgin Australia,Ballina,Sydney,46,46,2019,1
+Virgin Australia,Brisbane,Adelaide,117,117,2019,1
+Virgin Australia,Brisbane,Bundaberg,31,31,2019,1
+Virgin Australia,Brisbane,Cairns,136,135,2019,1
+Virgin Australia,Brisbane,Canberra,91,91,2019,1
+Virgin Australia,Brisbane,Darwin,32,32,2019,1
+Virgin Australia,Brisbane,Emerald,53,53,2019,1
+Virgin Australia,Brisbane,Gladstone,50,50,2019,1
+Virgin Australia,Brisbane,Hamilton Island,30,29,2019,1
+Virgin Australia,Brisbane,Hobart,43,43,2019,1
+Virgin Australia,Brisbane,Mackay,141,141,2019,1
+Virgin Australia,Brisbane,Melbourne,376,365,2019,1
+Virgin Australia,Brisbane,Mount Isa,19,19,2019,1
+Virgin Australia,Brisbane,Newcastle,70,70,2019,1
+Virgin Australia,Brisbane,Perth,116,116,2019,1
+Virgin Australia,Brisbane,Proserpine,46,43,2019,1
+Virgin Australia,Brisbane,Rockhampton,140,140,2019,1
+Virgin Australia,Brisbane,Sydney,512,497,2019,1
+Virgin Australia,Brisbane,Townsville,142,141,2019,1
+Virgin Australia,Broome,Perth,1,1,2019,1
+Virgin Australia,Bundaberg,Brisbane,31,31,2019,1
+Virgin Australia,Cairns,Brisbane,136,135,2019,1
+Virgin Australia,Cairns,Melbourne,36,34,2019,1
+Virgin Australia,Cairns,Sydney,97,96,2019,1
+Virgin Australia,Canberra,Adelaide,27,27,2019,1
+Virgin Australia,Canberra,Brisbane,91,91,2019,1
+Virgin Australia,Canberra,Melbourne,131,130,2019,1
+Virgin Australia,Canberra,Sydney,171,167,2019,1
+Virgin Australia,Coffs Harbour,Sydney,31,31,2019,1
+Virgin Australia,Darwin,Alice Springs,22,22,2019,1
+Virgin Australia,Darwin,Brisbane,32,32,2019,1
+Virgin Australia,Darwin,Melbourne,31,31,2019,1
+Virgin Australia,Darwin,Perth,23,23,2019,1
+Virgin Australia,Darwin,Sydney,30,30,2019,1
+Virgin Australia,Emerald,Brisbane,53,53,2019,1
+Virgin Australia,Gladstone,Brisbane,50,50,2019,1
+Virgin Australia,Gold Coast,Adelaide,38,38,2019,1
+Virgin Australia,Gold Coast,Melbourne,219,218,2019,1
+Virgin Australia,Gold Coast,Sydney,268,265,2019,1
+Virgin Australia,Hamilton Island,Brisbane,31,29,2019,1
+Virgin Australia,Hamilton Island,Sydney,30,29,2019,1
+Virgin Australia,Hobart,Brisbane,43,43,2019,1
+Virgin Australia,Hobart,Melbourne,152,148,2019,1
+Virgin Australia,Hobart,Sydney,76,75,2019,1
+Virgin Australia,Kalgoorlie,Perth,37,36,2019,1
+Virgin Australia,Karratha,Perth,1,1,2019,1
+Virgin Australia,Launceston,Melbourne,105,105,2019,1
+Virgin Australia,Launceston,Sydney,33,32,2019,1
+Virgin Australia,Mackay,Brisbane,141,141,2019,1
+Virgin Australia,Melbourne,Adelaide,259,254,2019,1
+Virgin Australia,Melbourne,Brisbane,376,364,2019,1
+Virgin Australia,Melbourne,Cairns,36,34,2019,1
+Virgin Australia,Melbourne,Canberra,131,130,2019,1
+Virgin Australia,Melbourne,Darwin,31,31,2019,1
+Virgin Australia,Melbourne,Gold Coast,217,217,2019,1
+Virgin Australia,Melbourne,Hobart,152,148,2019,1
+Virgin Australia,Melbourne,Launceston,104,104,2019,1
+Virgin Australia,Melbourne,Mildura,31,31,2019,1
+Virgin Australia,Melbourne,Newcastle,33,33,2019,1
+Virgin Australia,Melbourne,Perth,157,157,2019,1
+Virgin Australia,Melbourne,Sunshine Coast,76,76,2019,1
+Virgin Australia,Melbourne,Sydney,686,663,2019,1
+Virgin Australia,Mildura,Melbourne,31,31,2019,1
+Virgin Australia,Mount Isa,Brisbane,19,19,2019,1
+Virgin Australia,Newcastle,Brisbane,69,69,2019,1
+Virgin Australia,Newcastle,Melbourne,33,33,2019,1
+Virgin Australia,Newman,Perth,15,15,2019,1
+Virgin Australia,Perth,Adelaide,33,33,2019,1
+Virgin Australia,Perth,Brisbane,115,115,2019,1
+Virgin Australia,Perth,Broome,1,1,2019,1
+Virgin Australia,Perth,Darwin,23,23,2019,1
+Virgin Australia,Perth,Kalgoorlie,37,37,2019,1
+Virgin Australia,Perth,Karratha,1,1,2019,1
+Virgin Australia,Perth,Melbourne,155,155,2019,1
+Virgin Australia,Perth,Newman,15,15,2019,1
+Virgin Australia,Perth,Port Hedland,25,25,2019,1
+Virgin Australia,Perth,Sydney,131,131,2019,1
+Virgin Australia,Port Hedland,Perth,25,25,2019,1
+Virgin Australia,Port Macquarie,Sydney,55,55,2019,1
+Virgin Australia,Proserpine,Brisbane,46,43,2019,1
+Virgin Australia,Rockhampton,Brisbane,140,140,2019,1
+Virgin Australia,Sunshine Coast,Melbourne,76,76,2019,1
+Virgin Australia,Sunshine Coast,Sydney,68,67,2019,1
+Virgin Australia,Sydney,Adelaide,159,159,2019,1
+Virgin Australia,Sydney,Albury,60,60,2019,1
+Virgin Australia,Sydney,Ayers Rock,31,31,2019,1
+Virgin Australia,Sydney,Ballina,46,46,2019,1
+Virgin Australia,Sydney,Brisbane,518,501,2019,1
+Virgin Australia,Sydney,Cairns,97,97,2019,1
+Virgin Australia,Sydney,Canberra,171,167,2019,1
+Virgin Australia,Sydney,Coffs Harbour,31,31,2019,1
+Virgin Australia,Sydney,Darwin,30,30,2019,1
+Virgin Australia,Sydney,Gold Coast,269,267,2019,1
+Virgin Australia,Sydney,Hamilton Island,30,29,2019,1
+Virgin Australia,Sydney,Hobart,76,75,2019,1
+Virgin Australia,Sydney,Launceston,33,32,2019,1
+Virgin Australia,Sydney,Melbourne,680,657,2019,1
+Virgin Australia,Sydney,Perth,131,131,2019,1
+Virgin Australia,Sydney,Port Macquarie,55,55,2019,1
+Virgin Australia,Sydney,Sunshine Coast,68,67,2019,1
+Virgin Australia,Sydney,Tamworth,59,58,2019,1
+Virgin Australia,Sydney,Townsville,24,24,2019,1
+Virgin Australia,Tamworth,Sydney,58,57,2019,1
+Virgin Australia,Townsville,Brisbane,141,140,2019,1
+Virgin Australia,Townsville,Sydney,24,24,2019,1
+Virgin Australia Regional Airlines,Adelaide,Melbourne,11,11,2019,1
+Virgin Australia Regional Airlines,Adelaide,Perth,47,47,2019,1
+Virgin Australia Regional Airlines,Broome,Perth,61,61,2019,1
+Virgin Australia Regional Airlines,Darwin,Perth,8,8,2019,1
+Virgin Australia Regional Airlines,Geraldton,Perth,46,45,2019,1
+Virgin Australia Regional Airlines,Kalgoorlie,Perth,34,34,2019,1
+Virgin Australia Regional Airlines,Karratha,Perth,67,67,2019,1
+Virgin Australia Regional Airlines,Melbourne,Adelaide,11,11,2019,1
+Virgin Australia Regional Airlines,Newman,Perth,28,27,2019,1
+Virgin Australia Regional Airlines,Perth,Adelaide,47,47,2019,1
+Virgin Australia Regional Airlines,Perth,Broome,61,61,2019,1
+Virgin Australia Regional Airlines,Perth,Darwin,8,8,2019,1
+Virgin Australia Regional Airlines,Perth,Geraldton,46,46,2019,1
+Virgin Australia Regional Airlines,Perth,Kalgoorlie,34,34,2019,1
+Virgin Australia Regional Airlines,Perth,Karratha,67,67,2019,1
+Virgin Australia Regional Airlines,Perth,Newman,28,27,2019,1
+Virgin Australia Regional Airlines,Perth,Port Hedland,29,29,2019,1
+Virgin Australia Regional Airlines,Port Hedland,Perth,29,29,2019,1
+All Airlines,Adelaide,Alice Springs,54,54,2019,1
+All Airlines,Adelaide,Brisbane,294,292,2019,1
+All Airlines,Adelaide,Canberra,62,62,2019,1
+All Airlines,Adelaide,Gold Coast,78,78,2019,1
+All Airlines,Adelaide,Melbourne,732,715,2019,1
+All Airlines,Adelaide,Perth,207,206,2019,1
+All Airlines,Adelaide,Port Lincoln,296,293,2019,1
+All Airlines,Adelaide,Sydney,576,564,2019,1
+All Airlines,Albury,Sydney,191,190,2019,1
+All Airlines,Alice Springs,Adelaide,53,53,2019,1
+All Airlines,Alice Springs,Darwin,54,50,2019,1
+All Airlines,Armidale,Sydney,148,148,2019,1
+All Airlines,Ayers Rock,Sydney,58,58,2019,1
+All Airlines,Ballina,Sydney,153,151,2019,1
+All Airlines,Brisbane,Adelaide,292,291,2019,1
+All Airlines,Brisbane,Bundaberg,139,139,2019,1
+All Airlines,Brisbane,Cairns,409,406,2019,1
+All Airlines,Brisbane,Canberra,263,263,2019,1
+All Airlines,Brisbane,Darwin,111,109,2019,1
+All Airlines,Brisbane,Emerald,162,162,2019,1
+All Airlines,Brisbane,Gladstone,174,174,2019,1
+All Airlines,Brisbane,Hamilton Island,60,58,2019,1
+All Airlines,Brisbane,Hobart,89,89,2019,1
+All Airlines,Brisbane,Mackay,300,300,2019,1
+All Airlines,Brisbane,Melbourne,1084,1047,2019,1
+All Airlines,Brisbane,Mount Isa,50,50,2019,1
+All Airlines,Brisbane,Newcastle,246,244,2019,1
+All Airlines,Brisbane,Perth,256,256,2019,1
+All Airlines,Brisbane,Proserpine,90,86,2019,1
+All Airlines,Brisbane,Rockhampton,310,310,2019,1
+All Airlines,Brisbane,Sydney,1328,1284,2019,1
+All Airlines,Brisbane,Townsville,333,332,2019,1
+All Airlines,Broome,Perth,146,144,2019,1
+All Airlines,Bundaberg,Brisbane,139,139,2019,1
+All Airlines,Cairns,Brisbane,408,402,2019,1
+All Airlines,Cairns,Melbourne,238,232,2019,1
+All Airlines,Cairns,Sydney,321,313,2019,1
+All Airlines,Cairns,Townsville,142,142,2019,1
+All Airlines,Canberra,Adelaide,60,60,2019,1
+All Airlines,Canberra,Brisbane,263,262,2019,1
+All Airlines,Canberra,Melbourne,402,397,2019,1
+All Airlines,Canberra,Sydney,471,462,2019,1
+All Airlines,Coffs Harbour,Sydney,184,183,2019,1
+All Airlines,Darwin,Alice Springs,53,49,2019,1
+All Airlines,Darwin,Brisbane,112,109,2019,1
+All Airlines,Darwin,Melbourne,88,88,2019,1
+All Airlines,Darwin,Perth,62,61,2019,1
+All Airlines,Darwin,Sydney,93,93,2019,1
+All Airlines,Dubbo,Sydney,182,181,2019,1
+All Airlines,Emerald,Brisbane,162,161,2019,1
+All Airlines,Geraldton,Perth,88,86,2019,1
+All Airlines,Gladstone,Brisbane,174,173,2019,1
+All Airlines,Gold Coast,Adelaide,77,77,2019,1
+All Airlines,Gold Coast,Melbourne,596,586,2019,1
+All Airlines,Gold Coast,Sydney,833,801,2019,1
+All Airlines,Hamilton Island,Brisbane,61,58,2019,1
+All Airlines,Hamilton Island,Sydney,93,90,2019,1
+All Airlines,Hobart,Brisbane,89,89,2019,1
+All Airlines,Hobart,Melbourne,569,559,2019,1
+All Airlines,Hobart,Sydney,268,265,2019,1
+All Airlines,Kalgoorlie,Perth,142,140,2019,1
+All Airlines,Karratha,Perth,261,257,2019,1
+All Airlines,Launceston,Melbourne,427,423,2019,1
+All Airlines,Launceston,Sydney,124,123,2019,1
+All Airlines,Mackay,Brisbane,292,291,2019,1
+All Airlines,Melbourne,Adelaide,725,711,2019,1
+All Airlines,Melbourne,Brisbane,1089,1050,2019,1
+All Airlines,Melbourne,Cairns,239,233,2019,1
+All Airlines,Melbourne,Canberra,404,399,2019,1
+All Airlines,Melbourne,Darwin,88,88,2019,1
+All Airlines,Melbourne,Gold Coast,594,584,2019,1
+All Airlines,Melbourne,Hobart,569,560,2019,1
+All Airlines,Melbourne,Launceston,426,422,2019,1
+All Airlines,Melbourne,Mildura,165,164,2019,1
+All Airlines,Melbourne,Newcastle,154,152,2019,1
+All Airlines,Melbourne,Perth,482,477,2019,1
+All Airlines,Melbourne,Sunshine Coast,162,162,2019,1
+All Airlines,Melbourne,Sydney,2345,2202,2019,1
+All Airlines,Mildura,Melbourne,165,163,2019,1
+All Airlines,Mount Isa,Brisbane,50,50,2019,1
+All Airlines,Newcastle,Brisbane,245,243,2019,1
+All Airlines,Newcastle,Melbourne,154,152,2019,1
+All Airlines,Newman,Perth,175,172,2019,1
+All Airlines,Perth,Adelaide,215,213,2019,1
+All Airlines,Perth,Brisbane,245,245,2019,1
+All Airlines,Perth,Broome,146,145,2019,1
+All Airlines,Perth,Darwin,62,62,2019,1
+All Airlines,Perth,Geraldton,88,88,2019,1
+All Airlines,Perth,Kalgoorlie,142,141,2019,1
+All Airlines,Perth,Karratha,264,264,2019,1
+All Airlines,Perth,Melbourne,487,481,2019,1
+All Airlines,Perth,Newman,175,174,2019,1
+All Airlines,Perth,Port Hedland,186,185,2019,1
+All Airlines,Perth,Sydney,402,394,2019,1
+All Airlines,Port Hedland,Perth,186,182,2019,1
+All Airlines,Port Lincoln,Adelaide,295,292,2019,1
+All Airlines,Port Macquarie,Sydney,153,153,2019,1
+All Airlines,Proserpine,Brisbane,90,85,2019,1
+All Airlines,Proserpine,Sydney,36,34,2019,1
+All Airlines,Rockhampton,Brisbane,314,314,2019,1
+All Airlines,Sunshine Coast,Melbourne,163,163,2019,1
+All Airlines,Sunshine Coast,Sydney,225,221,2019,1
+All Airlines,Sydney,Adelaide,576,564,2019,1
+All Airlines,Sydney,Albury,195,192,2019,1
+All Airlines,Sydney,Armidale,149,148,2019,1
+All Airlines,Sydney,Ayers Rock,58,58,2019,1
+All Airlines,Sydney,Ballina,154,153,2019,1
+All Airlines,Sydney,Brisbane,1334,1289,2019,1
+All Airlines,Sydney,Cairns,320,314,2019,1
+All Airlines,Sydney,Canberra,473,466,2019,1
+All Airlines,Sydney,Coffs Harbour,185,184,2019,1
+All Airlines,Sydney,Darwin,93,93,2019,1
+All Airlines,Sydney,Dubbo,187,186,2019,1
+All Airlines,Sydney,Gold Coast,833,804,2019,1
+All Airlines,Sydney,Hamilton Island,92,90,2019,1
+All Airlines,Sydney,Hobart,268,265,2019,1
+All Airlines,Sydney,Launceston,123,122,2019,1
+All Airlines,Sydney,Melbourne,2341,2194,2019,1
+All Airlines,Sydney,Perth,401,394,2019,1
+All Airlines,Sydney,Port Macquarie,154,152,2019,1
+All Airlines,Sydney,Proserpine,36,34,2019,1
+All Airlines,Sydney,Sunshine Coast,225,222,2019,1
+All Airlines,Sydney,Tamworth,177,176,2019,1
+All Airlines,Sydney,Townsville,54,54,2019,1
+All Airlines,Sydney,Wagga Wagga,140,140,2019,1
+All Airlines,Tamworth,Sydney,171,170,2019,1
+All Airlines,Townsville,Brisbane,331,330,2019,1
+All Airlines,Townsville,Cairns,142,142,2019,1
+All Airlines,Townsville,Sydney,54,54,2019,1
+All Airlines,Wagga Wagga,Sydney,142,141,2019,1
