@@ -32,7 +32,7 @@ with open(r'/home/chiraghs/Downloads/crowdstrike/testdata.csv') as csv_file:
 
 
 
-    for i in range(len(test_Tdata)//100):
+    for i in range(len(test_Tdata)):
         for j in range(len(source_Adata)):
             if (test_Tdata[pairid[i]][0] not in source):
                 solution[pairid[i]]=-1

@@ -1,0 +1,5 @@
+Airline,Departing_Port,Arriving_Port,Departure_Time,Arrival_Time
+Jetstar,Adelaide,Brisbane,11:45:00,13:25:00
+Qantas,Brisbane,Darwin,9:30:00,11:00:00
+QantasLink,Armidale,Sydney,13:30:00,15:00:00
+Regional Express,Sydney,Ballina,14:05:00,16:24:00
