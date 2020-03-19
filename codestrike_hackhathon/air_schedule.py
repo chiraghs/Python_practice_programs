@@ -144,5 +144,5 @@ with open(r'/home/chiraghs/my_codes/python/codestrike_hackhathon/prob3/train.csv
                 source_12half[("schedule12_"+str(i12))]=row[1],row[2]
 
 #for i in range(len(source_1data)):
-for j in ['source_'+str(i)+'data' for i in range(12)]:
+for j in ['source_'+str(i)+'data' for i in range(13)]:
     print(len(j))
