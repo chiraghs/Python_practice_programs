@@ -59,6 +59,7 @@ for k,v in pairid.items():
         i +=1
 
 print(j)
+del hobs["PairID"]
 
 with open('/home/chiraghs/Downloads/crowdstrike/solution.csv', mode='a+') as csv_file:
     fieldnames = ['PairID', 'Hops']
